@@ -3,15 +3,15 @@
   maya_import_tools.cxx
   maya_xray_material.cxx
   maya_xray_tools.cxx
-D:\Progs\VisualStudio\VC\Tools\MSVC\14.29.30133\include\xkeycheck.h(312,1): warning C4005: 'nullptr': macro redefinition (compiling source file ..\maya_xray_material.cxx)
-C:\Users\ryner\Downloads\xray-re-tools-src-10sep2008 (1)\maya_tools\include\maya\MCppCompat.h(39): message : see previous definition of 'nullptr' (compiling source file ..\maya_xray_material.cxx)
-D:\Progs\VisualStudio\VC\Tools\MSVC\14.29.30133\include\xkeycheck.h(314,1): fatal error C1189: #error:  The C++ Standard Library forbids macroizing the keyword "nullptr". Enable warning C4005 to find the forbidden define. (compiling source file ..\maya_xray_material.cxx)
-D:\Progs\VisualStudio\VC\Tools\MSVC\14.29.30133\include\xkeycheck.h(312,1): warning C4005: 'nullptr': macro redefinition (compiling source file ..\maya_import_tools.cxx)
-C:\Users\ryner\Downloads\xray-re-tools-src-10sep2008 (1)\maya_tools\include\maya\MCppCompat.h(39): message : see previous definition of 'nullptr' (compiling source file ..\maya_import_tools.cxx)
-D:\Progs\VisualStudio\VC\Tools\MSVC\14.29.30133\include\xkeycheck.h(314,1): fatal error C1189: #error:  The C++ Standard Library forbids macroizing the keyword "nullptr". Enable warning C4005 to find the forbidden define. (compiling source file ..\maya_import_tools.cxx)
 D:\Progs\VisualStudio\VC\Tools\MSVC\14.29.30133\include\xkeycheck.h(312,1): warning C4005: 'nullptr': macro redefinition (compiling source file ..\maya_export_tools.cxx)
-C:\Users\ryner\Downloads\xray-re-tools-src-10sep2008 (1)\maya_tools\include\maya\MCppCompat.h(39): message : see previous definition of 'nullptr' (compiling source file ..\maya_export_tools.cxx)
+D:\code\XRay\re-tools\maya_tools\include\maya\MCppCompat.h(39): message : see previous definition of 'nullptr' (compiling source file ..\maya_export_tools.cxx)
 D:\Progs\VisualStudio\VC\Tools\MSVC\14.29.30133\include\xkeycheck.h(314,1): fatal error C1189: #error:  The C++ Standard Library forbids macroizing the keyword "nullptr". Enable warning C4005 to find the forbidden define. (compiling source file ..\maya_export_tools.cxx)
+D:\Progs\VisualStudio\VC\Tools\MSVC\14.29.30133\include\xkeycheck.h(312,1): warning C4005: 'nullptr': macro redefinition (compiling source file ..\maya_xray_material.cxx)
+D:\code\XRay\re-tools\maya_tools\include\maya\MCppCompat.h(39): message : see previous definition of 'nullptr' (compiling source file ..\maya_xray_material.cxx)
+D:\Progs\VisualStudio\VC\Tools\MSVC\14.29.30133\include\xkeycheck.h(314,1): fatal error C1189: #error:  The C++ Standard Library forbids macroizing the keyword "nullptr". Enable warning C4005 to find the forbidden define. (compiling source file ..\maya_xray_material.cxx)
 D:\Progs\VisualStudio\VC\Tools\MSVC\14.29.30133\include\xkeycheck.h(312,1): warning C4005: 'nullptr': macro redefinition (compiling source file ..\maya_xray_tools.cxx)
-C:\Users\ryner\Downloads\xray-re-tools-src-10sep2008 (1)\maya_tools\include\maya\MCppCompat.h(39): message : see previous definition of 'nullptr' (compiling source file ..\maya_xray_tools.cxx)
+D:\code\XRay\re-tools\maya_tools\include\maya\MCppCompat.h(39): message : see previous definition of 'nullptr' (compiling source file ..\maya_xray_tools.cxx)
 D:\Progs\VisualStudio\VC\Tools\MSVC\14.29.30133\include\xkeycheck.h(314,1): fatal error C1189: #error:  The C++ Standard Library forbids macroizing the keyword "nullptr". Enable warning C4005 to find the forbidden define. (compiling source file ..\maya_xray_tools.cxx)
+D:\Progs\VisualStudio\VC\Tools\MSVC\14.29.30133\include\xkeycheck.h(312,1): warning C4005: 'nullptr': macro redefinition (compiling source file ..\maya_import_tools.cxx)
+D:\code\XRay\re-tools\maya_tools\include\maya\MCppCompat.h(39): message : see previous definition of 'nullptr' (compiling source file ..\maya_import_tools.cxx)
+D:\Progs\VisualStudio\VC\Tools\MSVC\14.29.30133\include\xkeycheck.h(314,1): fatal error C1189: #error:  The C++ Standard Library forbids macroizing the keyword "nullptr". Enable warning C4005 to find the forbidden define. (compiling source file ..\maya_import_tools.cxx)
